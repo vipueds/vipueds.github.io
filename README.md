@@ -6,6 +6,7 @@
 ### html5
 
 [玩转html5之localStorage](https://github.com/vipueds/vipueds.github.io/issues/4)
+[玩转html5之SSE](https://github.com/vipueds/vipueds.github.io/issues/6)
 
 <hr>
 
