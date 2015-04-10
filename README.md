@@ -20,6 +20,8 @@
 
 [javascript的原型-从一道题说起](https://github.com/vipueds/vipueds.github.io/issues/5)
 
+[javascript的原型-基础梳理](https://github.com/vipueds/vipueds.github.io/issues/7)
+
 <hr>
 
 ### 前端利器
